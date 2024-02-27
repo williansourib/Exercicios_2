@@ -14,6 +14,7 @@ header {
 /* Estilo para as informações do perfil */
 .profile-info {
     text-align: center;
+    padding: 85px;
 }
 
 .profile-info img {
@@ -39,10 +40,21 @@ header {
 .profile-info ul li {
     margin-bottom: 5px; /* Espaçamento entre os itens da lista */
 }
-/* Estilo para o rodapé */
+
 footer {
     background-color: #333;
     color: #fff;
     padding: 10px;
     text-align: center;
+}
+
+
+.footer-icons i {
+    color: #0077B5;
+    background-color: white;
+}
+
+.footer-icons i.fa-github {
+    color: #333;
+    background-color: white;
 }
