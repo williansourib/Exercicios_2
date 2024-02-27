@@ -1,0 +1,48 @@
+/* Estilo para o cabeçalho */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo para o conteúdo principal */
+.main-content {
+    margin: 20px;
+}
+
+/* Estilo para as informações do perfil */
+.profile-info {
+    text-align: center;
+}
+
+.profile-info img {
+    width: 150px; /* Define a largura da imagem de perfil */
+    border-radius: 50%; /* Torna a imagem de perfil circular */
+    margin-bottom: 10px; /* Espaçamento abaixo da imagem de perfil */
+}
+
+.profile-info h2 {
+    margin-top: 0; /* Remove a margem superior padrão do título */
+}
+
+.profile-info p {
+    font-style: italic; /* Define a descrição do perfil em itálico */
+    color: #555; /* Cor do texto da descrição */
+}
+
+.profile-info ul {
+    list-style: none; /* Remove marcadores da lista */
+    padding: 0; /* Remove o espaçamento interno da lista */
+}
+
+.profile-info ul li {
+    margin-bottom: 5px; /* Espaçamento entre os itens da lista */
+}
+/* Estilo para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
